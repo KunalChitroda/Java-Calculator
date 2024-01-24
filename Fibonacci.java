@@ -1,6 +1,6 @@
 public class Fibonacci {
     public static void main(String[] args) {
-    int n = 5;
+    int n = 10;
     generateFibonacci(n);
     }
     public static void generateFibonacci(int n) {
